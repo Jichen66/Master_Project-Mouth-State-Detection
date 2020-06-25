@@ -1,0 +1,2 @@
+mouth
+-DCATKIN_DEVEL_PREFIX=/home/jichen/guo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jichen/guo_ws/install -G Unix Makefiles

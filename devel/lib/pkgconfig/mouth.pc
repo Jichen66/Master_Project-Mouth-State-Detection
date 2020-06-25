@@ -1,0 +1,8 @@
+prefix=/home/jichen/guo_ws/devel
+
+Name: mouth
+Description: Description of mouth
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jichen/guo_ws/devel/lib 
+Requires: 
