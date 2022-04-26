@@ -8,3 +8,7 @@ Optimization: apply Facial Landmark Detection(Dlib) and MedianFlow tracking algo
 
 Process Flow:  
 ![image](https://github.com/Jichen66/Master_Project-Mouth-State-Detection/blob/master/image/master%20project.png)
+
+Live Demo can be seen in:
+https://youtu.be/lQai4Z0LMKo
+https://youtu.be/KedRe-NgarQ
